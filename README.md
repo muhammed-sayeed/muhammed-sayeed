@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [findTogether](https://github.com/muhammed-sayeed/findTogether)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **CSS Preprocessors**
 
 - 💬 Ask me about **MEAN stack**
 
