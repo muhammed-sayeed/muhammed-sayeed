@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **MEAN stack**
 
-- 📫 How to reach me **sayeedmon25@gmail.com**
+- 📫 How to reach me **sayeed6225@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18KjlrUnHpAJzPgmGzACLCSzs_axQfcsv/view?usp=drive_link](https://drive.google.com/file/d/18KjlrUnHpAJzPgmGzACLCSzs_axQfcsv/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/18KjlrUnHpAJzPgmGzACLCSzs_axQfcsv/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
