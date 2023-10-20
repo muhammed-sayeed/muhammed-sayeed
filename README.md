@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sayeed6225@gmail.com**
 
-- 📄 an idea about me [Portfolio](https://mhdsayeed.netlify.app/)
+- 📄 Get in touch [Portfolio](https://mhdsayeed.netlify.app/)
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/18KjlrUnHpAJzPgmGzACLCSzs_axQfcsv/view?usp=drive_link)
 
