@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [codForum](https://github.com/muhammed-sayeed/codforum)
 
-- 🌱 I’m currently learning **CSS Preprocessors**
+- 🌱 I’m currently learning **version controll**
 
 - 💬 Ask me about **MEAN stack**
 
