@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [codForum](https://github.com/muhammed-sayeed/codforum)
 
-- 🌱 I’m currently learning **Sql**
+- 🌱 I’m currently Mastering **Front-End development**
 
 - 💬 Ask me about **MEAN stack**
 
