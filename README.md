@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Sayeed</h1>
-<h3 align="center">MEAN stack developer from India</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-sayeed&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-sayeed" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📄 Get in touch [Portfolio](https://mhdsayeed.netlify.app/)
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/18KjlrUnHpAJzPgmGzACLCSzs_axQfcsv/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/14VayDysReXo1-Jb5YkVsVaETTZS-4lGG/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
